@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "498786799062",
+    "project_id": "demologin-8df3d",
+    "storage_bucket": "demologin-8df3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498786799062:android:85a5fefbac69f54a56e877",
+        "android_client_info": {
+          "package_name": "com.app.meal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498786799062-ej33dpi480trp0pdmd325u78hatmofcl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhRQFDT80jP_gH2ykUadNcS5k_ie1ZBPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498786799062-ej33dpi480trp0pdmd325u78hatmofcl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
