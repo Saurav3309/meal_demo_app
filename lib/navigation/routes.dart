@@ -25,6 +25,8 @@ class Routes {
         page: () => LoginView(),
         binding: LoginBinding()),
     GetPage(
+
+
         name: Pages.registerView,
         page: () => RegisterView(),
         binding: RegisterBinding()),
